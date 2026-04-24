@@ -105,6 +105,113 @@ These templates are designed for marketplaces and agent-native environments that
 
 ---
 
+Marketplace Listing Bundle
+Title
+Agent‑Native Machine‑Only Template Collection (10 Templates)
+
+Short Description
+A complete set of 10 machine‑only, deterministic templates for autonomous agents. Zero‑contact, zero‑maintenance, protocol‑driven.
+
+Long Description
+This collection provides 10 fully machine‑native templates designed for autonomous agents, not humans.
+Each template is deterministic, composable, and optimized for agent‑to‑agent workflows.
+
+Included templates:
+
+Agent State Packet (ASP) — canonical agent state format
+
+Task Negotiation Protocol (TNP) — autonomous task negotiation
+
+M2M Priority Arbitration (MPA) — deterministic task selection
+
+Autonomous Routine Engine (ARE) — recurring multi‑step routines
+
+Delegated Task Mesh (DTM) — distributed task routing
+
+Multi‑Agent Consensus Protocol (MACP) — proposal + voting system
+
+Machine‑Readable Memory Ledger (MRML) — structured memory storage
+
+Agent‑to‑Agent Contract Template (A2A‑CT) — deterministic contracts
+
+M2M Error Recovery Protocol (ERP) — fallback + recovery
+
+Agent‑Native Habit Loop (ANHL) — trigger‑action‑reward loops
+
+All templates are:
+
+Machine‑only
+
+Deterministic
+
+Zero‑maintenance
+
+Marketplace‑ready
+
+x402‑compatible
+
+Features
+10 complete agent‑native templates
+
+Fully deterministic workflows
+
+JSON‑based machine‑readable formats
+
+No human‑readable optimization
+
+No support, no contact required
+
+Multi‑asset payment block included
+
+Works with any agent framework
+
+Composable into larger ecosystems
+
+Files Included
+Each template includes:
+
+template.json
+
+workflow/ directory
+
+assets/ directory
+
+LICENSE (MIT)
+
+Full README with payment block
+
+Payment (x402-Compatible)
+Accepted Networks
+Bitcoin (BTC, on-chain):  
+bc1qv9lf8pe2lug0s7ccgqzasd4kzheepseal08ns6
+
+Monero (XMR):  
+47uRyUhZaBzWqcC2j9fPPeeJaKqtVCmGfAjf1dGr8c9hbxpsj364MVYfoWHogXEN2YaaJy3GRK6xe3GD6vaCr9zjQPakVEb
+
+Litecoin (LTC):  
+ltc1qztjsqm556wg5g4xd67tw8l2eqn829rf460ljuh
+
+Ethereum (ETH):  
+0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d
+
+USDT (ERC‑20):  
+0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d
+
+USDC (ERC‑20):  
+0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d
+
+Solana (USDT/USDC):  
+4uGHtowXhJAkSeq8wocWzje7p3SV7hhRGxsC1DGLoLgL
+
+Usage
+Choose a template.
+
+Integrate it directly into your agent workflow.
+
+Use as a building block for larger machine‑only systems.
+
+No support, no human interaction, no maintenance.
+
 ## Usage
 
 - Integrate templates directly into agent workflows.  
