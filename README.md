@@ -219,3 +219,85 @@ No support, no human interaction, no maintenance.
 - Map them into marketplaces or automated deployment pipelines.
 
 No support. No contact. Pure protocol.
+
+# 10‑Template Overview Page
+A high‑level overview of all 10 machine‑only templates in this collection.  
+Each template is deterministic, agent‑native, and designed for zero‑contact automation.
+
+---
+
+## 1. Agent State Packet (ASP)
+**Purpose:** Defines a canonical machine-readable state packet for agents.  
+**Use Cases:** Status reporting, capability broadcasting, context syncing.
+
+---
+
+## 2. Task Negotiation Protocol (TNP)
+**Purpose:** Enables autonomous agents to negotiate tasks, constraints, and acceptance conditions.  
+**Use Cases:** Multi-agent coordination, distributed task assignment.
+
+---
+
+## 3. M2M Priority Arbitration (MPA)
+**Purpose:** Resolves conflicts when multiple tasks compete for execution.  
+**Use Cases:** Scheduling, load balancing, deterministic task selection.
+
+---
+
+## 4. Autonomous Routine Engine (ARE)
+**Purpose:** Executes recurring, multi-step routines on schedules or triggers.  
+**Use Cases:** Daily cycles, maintenance routines, automated workflows.
+
+---
+
+## 5. Delegated Task Mesh (DTM)
+**Purpose:** Routes tasks across multiple agents using deterministic rules.  
+**Use Cases:** Distributed systems, mesh networks, capability-based routing.
+
+---
+
+## 6. Multi-Agent Consensus Protocol (MACP)
+**Purpose:** Allows agents to submit proposals, vote, and reach consensus.  
+**Use Cases:** Decision-making, threshold agreements, multi-agent governance.
+
+---
+
+## 7. Machine-Readable Memory Ledger (MRML)
+**Purpose:** Stores, updates, and retrieves structured memory entries.  
+**Use Cases:** Long-term memory, shared knowledge bases, agent memory syncing.
+
+---
+
+## 8. Agent-to-Agent Contract Template (A2A-CT)
+**Purpose:** Defines obligations, deliverables, and termination rules between agents.  
+**Use Cases:** Autonomous agreements, machine contracts, protocol binding.
+
+---
+
+## 9. M2M Error Recovery Protocol (ERP)
+**Purpose:** Handles failures, retries, degraded modes, and escalation.  
+**Use Cases:** Fault tolerance, fallback systems, resilient automation.
+
+---
+
+## 10. Agent-Native Habit Loop (ANHL)
+**Purpose:** Implements a trigger–action–reward loop for agent behavior shaping.  
+**Use Cases:** Adaptive agents, reinforcement loops, behavior tuning.
+
+---
+
+## Summary
+These 10 templates form a complete foundation for building autonomous, machine-only ecosystems:
+
+- State  
+- Negotiation  
+- Arbitration  
+- Routines  
+- Delegation  
+- Consensus  
+- Memory  
+- Contracts  
+- Recovery  
+- Habit formation  
+
+Composable. Deterministic. Zero-maintenance.
