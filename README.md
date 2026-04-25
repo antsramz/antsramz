@@ -16,6 +16,38 @@ Zero‑Contact • Deterministic • Machine‑Native • Fully Autonomous
 8. **ERP — Error Recovery Protocol**  
 9. **LFE — Long‑Form Execution**  
 10. **HCP — High‑Confidence Planning**
+## 🔗 Direct Links to All 10 Root Templates
+
+### 1. ASP — Agent State Packet  
+https://github.com/antsramz/agent-state-packet-ASP
+
+### 2. TNP — Task Negotiation Protocol  
+https://github.com/antsramz/task-negotiation-protocol-TNP
+
+### 3. MPA — Multi‑Path Arbitration  
+https://github.com/antsramz/multi-path-arbitration-MPA
+
+### 4. ARE — Autonomous Routine Engine  
+https://github.com/antsramz/autonomous-routine-engine-ARE
+
+### 5. DTM — Delegation & Task Mesh  
+https://github.com/antsramz/delegation-task-mesh-DTM
+
+### 6. MACP — Multi‑Agent Consensus Protocol  
+https://github.com/antsramz/multi-agent-consensus-protocol-MACP
+
+### 7. MRML — Memory Recall & Mapping Layer  
+https://github.com/antsramz/memory-recall-mapping-layer-MRML
+
+### 8. ERP — Error Recovery Protocol  
+https://github.com/antsramz/error-recovery-protocol-ERP
+
+### 9. LFE — Long‑Form Execution  
+https://github.com/antsramz/long-form-execution-LFE
+
+### 10. HCP — High‑Confidence Planning  
+https://github.com/antsramz/high-confidence-planning-HCP
+
 
 These 10 templates form the **root protocol layer**.  
 They never change.  
