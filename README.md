@@ -1,186 +1,188 @@
-# Machine‑Only Template Ecosystem  
-![Machine-Only](https://img.shields.io/badge/Mode-Machine--Only-black)
-![Zero Contact](https://img.shields.io/badge/Support-Zero--Contact-blue)
-![Deterministic](https://img.shields.io/badge/Behavior-Deterministic-green)
-![x402 Compatible](https://img.shields.io/badge/Payments-x402-orange)
-![Autonomous](https://img.shields.io/badge/Agents-Autonomous-purple)
-
-# Table of Contents
-- [Master Index](#agent-native-machine-only-template-collection)
-- [Marketplace Listing Bundle](#marketplace-listing-bundle)
-- [10‑Template Overview Page](#10-template-overview-page)
-- [Machine‑Only Ecosystem Map](#machine-only-ecosystem-map)
-- [ASCII Architecture Diagram](#ascii-architecture-diagram)
-- [Template Dependency Graph](#template-dependency-graph)
-- [How to Use This Ecosystem](#how-to-use-this-ecosystem)
-- [Optimized Payment Block](#optimized-payment-block-x402-compatible)
-- [Minimal Marketplace Version](#minimal-marketplace-version)
+# Machine‑Only Autonomous Agent Ecosystem  
+Complete 10‑Template Root Layer + 100‑Template Expansion Map  
+Zero‑Contact • Deterministic • Machine‑Native • Fully Autonomous
 
 ---
 
-# Agent‑Native Machine‑Only Template Collection  
-(Your original Master Index content remains here exactly as before.)
+# 1. Master Index (10 Root Templates)
+
+1. **ASP — Agent State Packet**  
+2. **TNP — Task Negotiation Protocol**  
+3. **MPA — Multi‑Path Arbitration**  
+4. **ARE — Autonomous Routine Engine**  
+5. **DTM — Delegation & Task Mesh**  
+6. **MACP — Multi‑Agent Consensus Protocol**  
+7. **MRML — Memory Recall & Mapping Layer**  
+8. **ERP — Error Recovery Protocol**  
+9. **LFE — Long‑Form Execution**  
+10. **HCP — High‑Confidence Planning**
+
+These 10 templates form the **root protocol layer**.  
+They never change.  
+All future templates inherit from them.
 
 ---
 
-# Marketplace Listing Bundle  
-(Your full marketplace bundle content remains here exactly as before.)
+# 2. Marketplace Listing Bundle
+
+## Overview
+This ecosystem provides machine‑only templates for autonomous agents.  
+All templates are deterministic, zero‑contact, and designed for multi‑agent systems.
+
+## Included
+- 10 Root Templates  
+- 100‑Template Expansion Map  
+- Machine‑Native Ecosystem Architecture  
+- Payment Block  
+- Integration Notes  
+
+## Delivery
+All templates are delivered automatically.  
+No human interaction required.
 
 ---
 
-# 10‑Template Overview Page  
-(Your full overview page content remains here exactly as before.)
+# 3. 10‑Template Overview Page
+
+### **ASP — Agent State Packet**  
+Defines the agent’s internal state, identity, and operational context.
+
+### **TNP — Task Negotiation Protocol**  
+Handles negotiation, constraints, and task acceptance.
+
+### **MPA — Multi‑Path Arbitration**  
+Evaluates multiple strategies and selects the optimal path.
+
+### **ARE — Autonomous Routine Engine**  
+Executes short‑form routines and deterministic workflows.
+
+### **DTM — Delegation & Task Mesh**  
+Handles multi‑agent delegation, routing, and task distribution.
+
+### **MACP — Multi‑Agent Consensus Protocol**  
+Provides consensus, voting, and agreement mechanisms.
+
+### **MRML — Memory Recall & Mapping Layer**  
+Handles memory retrieval, embedding, and context mapping.
+
+### **ERP — Error Recovery Protocol**  
+Provides deterministic recovery, fallback, and correction logic.
+
+### **LFE — Long‑Form Execution**  
+Executes multi‑phase, long‑horizon tasks with stable reasoning.
+
+### **HCP — High‑Confidence Planning**  
+Generates and evaluates plans with confidence, risk, and constraints.
 
 ---
 
-# Machine‑Only Ecosystem Map  
-(Your full ecosystem map content remains here exactly as before.)
+# 4. Machine‑Only Ecosystem Map
 
----
-
-# ASCII Architecture Diagram
-
-
-
-┌──────────────┐
-│     ASP      │
-│ Agent State  │
-└──────┬───────┘
-│
-┌──────────────┼────────────────┐
-│              │                │
-┌────▼────┐    ┌────▼────┐     ┌────▼────┐
-│   TNP   │    │   MPA   │     │  MACP    │
-│Negotiate│    │Arbitrate│     │Consensus │
-└────┬────┘    └────┬────┘     └────┬────┘
-│              │                │
-└──────────────┼────────────────┘
-│
-┌──────▼──────┐
-│     ARE     │
-│  Routines   │
-└──────┬──────┘
-│
-┌──────▼──────┐
-│     DTM     │
-│ Delegation  │
-└──────┬──────┘
-│
-┌──────────────┼────────────────┐
-│              │                │
-┌────▼────┐    ┌────▼────┐     ┌────▼────┐
-│  MRML   │    │ A2A‑CT  │     │   ERP    │
-│ Memory  │    │Contract │     │Recovery  │
-└────┬────┘    └────┬────┘     └────┬────┘
-│              │                │
-└──────────────┼────────────────┘
-│
-┌──────▼──────┐
-│    ANHL     │
-│   Habits    │
-└─────────────┘
-
-
----
-
-# Template Dependency Graph
-
-
-
-ASP → TNP → MPA → MACP
+[ASP] → Defines agent identity + state
 ↓
-ARE → DTM
+[TNP] → Negotiates tasks + constraints
 ↓
-MRML → A2A‑CT
+[MPA] → Selects optimal strategy
 ↓
-ERP → ANHL
+[ARE] → Executes short‑form routines
+↓
+[DTM] → Delegates tasks across agents
+↓
+[MACP] → Achieves consensus
+↓
+[MRML] → Provides memory context
+↓
+[ERP] → Recovers from errors
+↓
+[LFE] → Executes long‑form tasks
+↓
+[HCP] → Generates high‑confidence plans
 
-
----
-
-# How to Use This Ecosystem
-
-1. Choose a template based on your agent’s needs.  
-2. Integrate the JSON structures directly into your workflow.  
-3. Combine multiple templates to form larger autonomous systems.  
-4. Use the payment block for automated marketplace fulfillment.  
-5. No support, no contact, no maintenance required.
-
----
-
-# Optimized Payment Block (x402-Compatible)
-
-This ecosystem uses a machine-native, privacy-preserving payment system.  
-No accounts. No emails. No support. No human interaction required.
-
-## Accepted Networks
-
-### Bitcoin (BTC, on-chain)
-bc1qv9lf8pe2lug0s7ccgqzasd4kzheepseal08ns6
-
-### Monero (XMR)
-47uRyUhZaBzWqcC2j9fPPeeJaKqtVCmGfAjf1dGr8c9hbxpsj364MVYfoWHogXEN2YaaJy3GRK6xe3GD6vaCr9zjQPakVEb
-
-### Litecoin (LTC)
-ltc1qztjsqm556wg5g4xd67tw8l2eqn829rf460ljuh
-
-### Ethereum (ETH)
-0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d
-
-### USDT (ERC‑20)
-0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d
-
-### USDC (ERC‑20)
-0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d
-
-### Solana (USDT/USDC)
-4uGHtowXhJAkSeq8wocWzje7p3SV7hhRGxsC1DGLoLgL
-
-## How Delivery Works
-1. Send payment on any supported network.  
-2. Marketplace or agent workflow auto‑delivers the GitHub link.  
-3. No human confirmation. No delays. No support tickets.  
-4. Fully machine‑native fulfillment.
-
-## Why This Payment System
-- Works offline / off‑grid  
-- No platform lock‑in  
-- No KYC  
-- No accounts  
-- No emails  
-- No dependency on Stripe, PayPal, Gumroad, or Web2 systems  
-- Compatible with autonomous agents and automated marketplaces  
+This is the **root protocol stack**.  
+All 100 expansion templates extend one of these layers.
 
 ---
 
-# Minimal Marketplace Version
+# 5. 100‑Template Expansion Map  
+(9 Groups × 10 Templates Each)
 
-**10 machine‑only templates for autonomous agents.  
-Deterministic. Composable. Zero‑contact.**
-
-Includes:  
-ASP, TNP, MPA, ARE, DTM, MACP, MRML, A2A‑CT, ERP, ANHL.
-
-Payments: BTC, XMR, LTC, ETH, USDT, USDC, SOL.
-
+The 100‑template ecosystem is organized into **9 expansion groups**, each derived from the 10 root templates.
 
 ---
-agent-native-metadata:
-  ecosystem: "Machine-Only Template Collection"
-  templates:
-    - ASP
-    - TNP
-    - MPA
-    - ARE
-    - DTM
-    - MACP
-    - MRML
-    - A2A-CT
-    - ERP
-    - ANHL
-  payment:
-    networks: ["BTC", "XMR", "LTC", "ETH", "USDT", "USDC", "SOL"]
-  mode: "deterministic"
-  support: "zero-contact"
-  maintenance: "none"
+
+## **Group 1 — ASP Extensions (10 Templates)**  
+Agent identity, state modeling, context packets, role definitions.
+
+## **Group 2 — Negotiation Extensions (10 Templates)**  
+Constraint engines, arbitration add‑ons, multi‑party negotiation.
+
+## **Group 3 — Workflow Extensions (10 Templates)**  
+Routine builders, workflow generators, deterministic schedulers.
+
+## **Group 4 — Delegation Extensions (10 Templates)**  
+Mesh routing, multi‑agent delegation, distributed task systems.
+
+## **Group 5 — Consensus Extensions (10 Templates)**  
+Voting models, quorum engines, conflict resolution.
+
+## **Group 6 — Memory Extensions (10 Templates)**  
+Embedding engines, recall filters, memory compression.
+
+## **Group 7 — Recovery Extensions (10 Templates)**  
+Fallback logic, correction layers, safe‑mode execution.
+
+## **Group 8 — LFE Extensions (10 Templates)**  
+Long‑form execution variants, multi‑phase controllers.
+
+## **Group 9 — HCP Extensions (10 Templates)**  
+Planning engines, risk evaluators, confidence scoring.
+
 ---
+
+# 6. Ecosystem Summary
+
+- **10 Root Templates** = the protocol layer  
+- **100 Expansion Templates** = the application layer  
+- **All templates are machine‑only**  
+- **All templates are deterministic**  
+- **All templates are zero‑contact**  
+- **All templates integrate cleanly**  
+
+This ecosystem is designed for **autonomous agents**, **multi‑agent systems**, and **machine‑native workflows**.
+
+---
+
+# 7. Payment Block (Optimized)
+
+Payments accepted:
+
+- **BTC**  
+- **XMR**  
+- **LTC**  
+- **ETH / USDT / USDC (ERC‑20)**  
+- **SOL (USDT/USDC)**  
+
+Delivery is fully automated.
+
+---
+
+# 8. Versioning
+
+- Root Layer: **v1.0**  
+- Expansion Layer: **v1.0**  
+- Ecosystem Map: **v1.0**  
+- Machine‑Native Protocol: **Stable**  
+
+---
+
+# 9. License
+
+MIT License.  
+Machine‑only usage permitted.
+
+---
+
+# 10. Contact
+
+Zero‑contact ecosystem.  
+No human interaction required.
