@@ -164,3 +164,23 @@ ASP, TNP, MPA, ARE, DTM, MACP, MRML, A2A‑CT, ERP, ANHL.
 Payments: BTC, XMR, LTC, ETH, USDT, USDC, SOL.
 
 
+---
+agent-native-metadata:
+  ecosystem: "Machine-Only Template Collection"
+  templates:
+    - ASP
+    - TNP
+    - MPA
+    - ARE
+    - DTM
+    - MACP
+    - MRML
+    - A2A-CT
+    - ERP
+    - ANHL
+  payment:
+    networks: ["BTC", "XMR", "LTC", "ETH", "USDT", "USDC", "SOL"]
+  mode: "deterministic"
+  support: "zero-contact"
+  maintenance: "none"
+---
