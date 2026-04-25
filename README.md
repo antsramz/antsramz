@@ -1,3 +1,11 @@
+# Table of Contents
+- [Master Index](#agent-native-machine-only-template-collection)
+- [Marketplace Listing Bundle](#marketplace-listing-bundle)
+- [10‑Template Overview Page](#10-template-overview-page)
+- [Machine‑Only Ecosystem Map](#machine-only-ecosystem-map)
+- [Optimized Payment Block](#optimized-payment-block-x402-compatible)
+
+
 # Agent-Native Machine-Only Template Collection
 
 A curated set of 10 machine-only, agent-native templates designed for zero-contact, zero-maintenance operation.  
